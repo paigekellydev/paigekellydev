@@ -8,7 +8,7 @@ I strongly believe every experience is an opportunity to learn, grow, and thrive
 
 👯 I’m looking to collaborate on any projects to gain!
 
-📫 How to reach me:
+📫 How to reach me:<br/>
 <code><a href="mailto:paigekellydev@gmail.com">
    :e-mail:
 </a></code>
