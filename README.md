@@ -1,6 +1,6 @@
-<span>
-  <img alt="Paige Kelly Full-stack Software Engineer" src="https://i.imgur.com/smShSIG.png" height=300/>
-</span>
+<p style="text-align:center;">
+  <img alt="Paige Kelly Full-stack Software Engineer" src="https://i.imgur.com/NfSfj01.png"/>
+</p>
 <span>
 <p>Driven, efficient, and creative Full Stack Software Engineer experienced in frontend and backend technologies including Ruby, Rails, JavaScript, and React.</p>
 </span>
@@ -8,7 +8,7 @@ An innate problem-solver with strong communication and collaboration skills who 
 
 I strongly believe every experience is an opportunity to learn, grow, and thrive. My goal is to continue to learn something new everyday and find new ways to share my skills with others.
 
-🔭 I’m currently working on my portfolio site, paigekellydev.com!
+🔭 I’m currently working on my portfolio site!
 
 🌱 I’m currently learning Scala with Play.
 
@@ -25,11 +25,10 @@ I strongly believe every experience is an opportunity to learn, grow, and thrive
 
 😄 Pronouns: she/her
 
-Languages and Tools:
+<h2>Languages and Tools:</h2>
 ruby rails javascript react postgresql sqlite html5 css3 sass bootstrap
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
