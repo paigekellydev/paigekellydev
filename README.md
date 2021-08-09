@@ -11,7 +11,7 @@ I strongly believe every experience is an opportunity to learn, grow, and thrive
 📫 How to reach me:<br/>
 <code><a href="mailto:paigekellydev@gmail.com">
    :e-mail:
-</a></code>
+</a>
 <a href="https://www.linkedin.com/in/paigekellydev/">
   <img align="left" alt="Paige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
