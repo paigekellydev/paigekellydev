@@ -1,12 +1,12 @@
 <p style="text-align:center;">
   <img alt="Paige Kelly Full-stack Software Engineer" src="https://i.imgur.com/NfSfj01.png"/>
 </p>
-<span>
-<p>Driven, efficient, and creative Full Stack Software Engineer experienced in frontend and backend technologies including Ruby, Rails, JavaScript, and React.</p>
-</span>
-An innate problem-solver with strong communication and collaboration skills who consistently exceeds client and company expectations by creating effective systems to manage and prioritize tasks. Passionate about delivering sensical and engaging user interfaces to help companies increase productivity.
 
-I strongly believe every experience is an opportunity to learn, grow, and thrive. My goal is to continue to learn something new everyday and find new ways to share my skills with others.
+Driven, efficient, and creative Full Stack Software Engineer experienced in frontend and backend technologies including Ruby, Rails, JavaScript, and React.
+
+An innate problem-solver with strong communication and collaboration skills who consistently exceeds client and company expectations by creating effective systems to manage and prioritize tasks.
+
+Passionate about delivering sensical and engaging user interfaces to help companies increase productivity.
 
 🔭 I’m currently working on my portfolio site!
 
@@ -15,20 +15,21 @@ I strongly believe every experience is an opportunity to learn, grow, and thrive
 👯 I’m looking to collaborate on any projects to gain experience!
 
 📫 How to reach me:<br/>
-<a href="mailto:paigekellydev@gmail.com">
-   :e-mail:
-</a>
-<a href="https://www.linkedin.com/in/paigekellydev/">
-  <img align="left" alt="Paige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
+<p>
+  <a href="https://www.linkedin.com/in/paigekellydev/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="mailto:paigekellydev@gmail.com">:e-mail:</a>
+ </p>
 
-😄 Pronouns: she/her
+## Skills :computer:
 
-<h2>Languages and Tools:</h2>
-ruby rails javascript react postgresql sqlite html5 css3 sass bootstrap
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="left">
+  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
+  <img src="https://i.imgur.com/rTNkWSQ.png" alt="react" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=white" alt="ruby" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=white" alt="rails" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=white" alt="postgres" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=white" alt="aws" align="left" width="40" height="40"/>
+</p>
+
+<br />
