@@ -1,6 +1,10 @@
-<img alt="Paige Kelly Full-stack Software Engineer" src="https://i.imgur.com/smShSIG.png" height=200/>
-
-Driven, efficient, and creative Full Stack Software Engineer experienced in frontend and backend technologies including Ruby, Rails, JavaScript, and React. An innate problem-solver with strong communication and collaboration skills who consistently exceeds client and company expectations by creating effective systems to manage and prioritize tasks. Passionate about delivering sensical and engaging user interfaces to help companies increase productivity.
+<span>
+  <img alt="Paige Kelly Full-stack Software Engineer" src="https://i.imgur.com/smShSIG.png" height=300/>
+</span>
+<span>
+<p>Driven, efficient, and creative Full Stack Software Engineer experienced in frontend and backend technologies including Ruby, Rails, JavaScript, and React.</p>
+</span>
+An innate problem-solver with strong communication and collaboration skills who consistently exceeds client and company expectations by creating effective systems to manage and prioritize tasks. Passionate about delivering sensical and engaging user interfaces to help companies increase productivity.
 
 I strongly believe every experience is an opportunity to learn, grow, and thrive. My goal is to continue to learn something new everyday and find new ways to share my skills with others.
 
