@@ -12,9 +12,9 @@ I strongly believe every experience is an opportunity to learn, grow, and thrive
 <code><a href="mailto:paigekellydev@gmail.com">
    :e-mail:
 </a></code>
-<code><a href="https://www.linkedin.com/in/paigekellydev/">
+<a href="https://www.linkedin.com/in/paigekellydev/">
   <img align="left" alt="Paige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a></code>
+</a>
 
 
 😄 Pronouns: she/her
