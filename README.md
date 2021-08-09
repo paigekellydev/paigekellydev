@@ -6,13 +6,18 @@ With a background in elementary education, my passion for learning and creating 
 
 👯 I’m looking to collaborate on anything ed tech related!
 
-📫 How to reach me: 
-<a href="mailto:paigekellydev@gmail.com">
-  :e-mail:
-</a>
-<a href="https://www.linkedin.com/in/paigekellydev/">
-  <img align="left" alt="Paige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+📫 How to reach me:
+<span>
+  <a href="mailto:paigekellydev@gmail.com">
+    :e-mail:
+  </a>
+</span>
+<span>
+  <a href="https://www.linkedin.com/in/paigekellydev/">
+    <img align="left" alt="Paige's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+</span>
+
 
 😄 Pronouns: she/her
 
